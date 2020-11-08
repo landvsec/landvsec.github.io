@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-11-08T02:52:49.853Z</updated>
+  <updated>2020-11-08T04:23:16.690Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PHP利用Math函数RCE总结</title>
+    <link href="https://landvsec.top/archives/e11628b6.html"/>
+    <id>https://landvsec.top/archives/e11628b6.html</id>
+    <published>2020-11-08T04:14:26.000Z</published>
+    <updated>2020-11-08T04:23:16.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info&quot;&gt;
+            &lt;p&gt;本文由&lt;strong&gt;landvsec&lt;/strong&gt;原创发布&lt;br&gt;转载，请参考&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="CTF" scheme="https://landvsec.top/tags/CTF/"/>
+    
+    <category term="RCE" scheme="https://landvsec.top/tags/RCE/"/>
+    
+    <category term="PHP" scheme="https://landvsec.top/tags/PHP/"/>
+    
+  </entry>
   
   <entry>
     <title>DES攻略之原理篇</title>
