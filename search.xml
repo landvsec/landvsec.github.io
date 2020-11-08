@@ -6,6 +6,7 @@
     <content><![CDATA[<div class="note info">
             <p>本文由<strong>landvsec</strong>原创发布<br>转载，请参考<a href="https://www.anquanke.com/note/repost">转载声明</a>，注明出处： <a href="https://www.anquanke.com/post/id/220813">https://www.anquanke.com/post/id/220813</a><br>安全客 - 有思想的安全新媒体</p>
           </div>
+<a id="more"></a>
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>安全客投稿成功的第一篇文章，转来博客发一下。</p>
 <p>由 2019 国赛 love math 而来，国赛题目质量一直可以的，“数学题”近年来也不少，比如今年护网杯，但网上一些博客写得不够基础，比如 php 异或的原理是什么？为什么两个字符串异或会得到这个？完全没有解答。</p>
 <p>写这篇文章的目的，就是从基础层面上，收集师傅们的各种解题方法来总的分析一下—— php 怎么利用数学函数来代码执行。</p>
