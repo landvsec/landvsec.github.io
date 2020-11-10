@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-11-08T07:30:32.630Z</updated>
+  <updated>2020-11-10T13:41:20.851Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mongodb 注入初识</title>
+    <link href="https://landvsec.top/archives/15015253.html"/>
+    <id>https://landvsec.top/archives/15015253.html</id>
+    <published>2020-11-09T12:23:10.000Z</published>
+    <updated>2020-11-10T13:41:20.851Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;学习安全一年半熟悉的数据库却寥寥，写这篇缘由自 2020 CSR 的 Secure Secret Sharing 这道 mongodb</summary>
+        
+      
+    
+    
+    
+    <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="mongodb注入" scheme="https://landvsec.top/tags/mongodb%E6%B3%A8%E5%85%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>PHP利用Math函数RCE总结</title>
@@ -46,10 +71,13 @@
     <link href="https://landvsec.top/archives/681f5904.html"/>
     <id>https://landvsec.top/archives/681f5904.html</id>
     <published>2020-11-06T10:48:28.000Z</published>
-    <updated>2020-11-08T02:52:49.853Z</updated>
+    <updated>2020-11-10T10:56:52.543Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;密码学课讲到了分组密码，故写文章总结一下要点，方便自己理解算法，参考了金晨辉等先生编著的《密码学》这本书，如有不当之处，还请在评论下方指出，我会及时进行检查修正，感谢！&lt;/p&gt;
+    <summary type="html">&lt;div class=&quot;note info&quot;&gt;
+            &lt;p&gt;此篇含大量数学公式，加载稍慢，请耐心等待。&lt;/p&gt;
+          &lt;/div&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;密码学课讲到了分组密码，故写文章总结一下要点，方便自己理解算法，参考了金晨辉等先生编著的《密码学》这本书，如有不当之处，还请在评论下方指出，我会及时进行检查修正，感谢！&lt;/p&gt;
 &lt;p&gt;接下来就是 DES 的回合了，多罗！&lt;/p&gt;</summary>
     
     
