@@ -5,6 +5,7 @@
     <url>/archives/15015253.html</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>学习安全一年半熟悉的数据库却寥寥，写这篇缘由自 2020 CSR 的 Secure Secret Sharing 这道 mongodb 注入题，发现其注入方式完全不同于 MySQL、SQLite 等数据库，同时国内关于 mongodb 注入的文章很少，且发表于 2012~2016 很早的时间段，所以想结合外网的文章进行翻译拓展，由于参考文章非常多，就不详细列出了，一些也需要科学上网才能访问。</p>
 <p>All in all，希望这篇文章能助你扫盲。</p>
+<a id="more"></a>
 <h1 id="MongoDB"><a href="#MongoDB" class="headerlink" title="MongoDB"></a>MongoDB</h1><p>MongoDB 安装可以参考这篇<a href="https://blog.csdn.net/weixin_41466575/article/details/105326230">博客</a> ，当然你要是有 docker 则更为方便。</p>
 <p>基础语法的学习建议先去看了 <a href="https://docs.mongoing.com/mongo-introduction">MongoDB 官方中文手册</a> ，跟着步骤做一下，本篇并不作介绍。（但还是建议看英文原版，因为中文文档个人觉得有点乱 :-)</p>
 <h2 id="注入简介"><a href="#注入简介" class="headerlink" title="注入简介"></a>注入简介</h2><p>MongoDB 是 NoSQL 的一个开源数据库，它的“数据”是一个文档，由字段和值对组成的数据结构，类似于JSON对象。字段的值可以包括其他文档，数组和文档数组。而它的“表”则称为集合。</p>
