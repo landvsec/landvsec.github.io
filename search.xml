@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DES攻略之C++实现篇</title>
+    <url>/archives/3f6bbb3.html</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>承</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+      <tags>
+        <tag>密码学</tag>
+        <tag>DES</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MongoDB 注入初识</title>
     <url>/archives/15015253.html</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>写此篇缘由 2020 CSR 的 Secure Secret Sharing 这道 MongoDB 注入题，发现其注入方式完全不同于 MySQL、SQLite 等数据库，同时国内关于 MongoDB 注入的文章很少，且发表于 2012~2016 很早的时间段，所以想结合外网的文章进行翻译拓展，由于参考文章非常多，就不详细列出了，一些也需要科学上网才能访问。</p>
@@ -330,7 +343,7 @@ f(R,k)=PS(E(R)\bigoplus k)</script><p>接下来我们来解释 E、S、P 这三�
 <p>到这里，DES 的算法就介绍完毕了，希望对你有所帮助！</p>
 ]]></content>
       <categories>
-        <category>安全</category>
+        <category>算法</category>
       </categories>
       <tags>
         <tag>密码学</tag>
