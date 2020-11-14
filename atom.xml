@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-11-14T11:06:35.928Z</updated>
+  <updated>2020-11-14T11:16:23.989Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://landvsec.top/archives/15015253.html"/>
     <id>https://landvsec.top/archives/15015253.html</id>
     <published>2020-11-09T12:23:10.000Z</published>
-    <updated>2020-11-14T11:06:35.928Z</updated>
+    <updated>2020-11-14T11:16:23.989Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;写此篇缘由 2020 CSR 的 Secure Secret Sharing 这道 MongoDB 注入题，发现其注入方式完全不同于 MySQL、SQLite 等数据库，同时国内关于 MongoDB 注入的文章很少，且发表于 2012~2016 很早的时间段，所以想结合外网的文章进行翻译拓展，由于参考文章非常多，就不详细列出了，一些也需要科学上网才能访问。&lt;/p&gt;
@@ -32,7 +32,7 @@
     <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
     
     
-    <category term="mongodb注入" scheme="https://landvsec.top/tags/mongodb%E6%B3%A8%E5%85%A5/"/>
+    <category term="NoSQL" scheme="https://landvsec.top/tags/NoSQL/"/>
     
   </entry>
   
