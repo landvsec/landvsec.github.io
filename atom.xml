@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-11-26T06:47:03.485Z</updated>
+  <updated>2020-11-26T06:52:20.903Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="https://landvsec.top/archives/5856e475.html"/>
     <id>https://landvsec.top/archives/5856e475.html</id>
     <published>2020-11-15T02:39:06.000Z</published>
-    <updated>2020-11-26T06:47:03.485Z</updated>
+    <updated>2020-11-26T06:52:20.903Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;2020 年 11 月 13 日由 Square 举办的一场比赛，因为与上海大学生赛冲突了并没有打。看推说有 NoSQL</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;2020 年 11 月 13 日由 Square 举办的一场比赛，因为与上海大学生赛冲突了并没有打。看推说有 NoSQL 注入，正好前不久就写了关于 NoSQL 的文章&lt;a href=&quot;https://landvsec.top/archives/15015253.html&quot;&gt;《MongoDB 注入初识》&lt;/a&gt; ，想借此来巩固知识。&lt;/p&gt;</summary>
     
     
     
