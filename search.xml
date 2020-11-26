@@ -4,6 +4,7 @@
     <title>2020 SquareCTF Web 复现记录</title>
     <url>/archives/5856e475.html</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>2020 年 11 月 13 日由 Square 举办的一场比赛，因为与上海大学生赛冲突了并没有打。看推说有 NoSQL 注入，正好前不久就写了关于 NoSQL 的文章<a href="https://landvsec.top/archives/15015253.html">《MongoDB 注入初识》</a> ，想借此来巩固知识。</p>
+<p>比赛只有两道 web ，另外一道水平原因太菜了做不出来 orz</p>
 <a id="more"></a>
 <h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><h2 id="Deep-Web-Blog"><a href="#Deep-Web-Blog" class="headerlink" title="Deep Web Blog"></a>Deep Web Blog</h2><blockquote>
 <p>A secret informant has tipped us off that hackers on the deep web have been plotting an attack on Square to steal our treasured Bitcoins…</p>
