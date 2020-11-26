@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-11-14T11:16:23.989Z</updated>
+  <updated>2020-11-26T06:47:03.485Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020 SquareCTF Web 复现记录</title>
+    <link href="https://landvsec.top/archives/5856e475.html"/>
+    <id>https://landvsec.top/archives/5856e475.html</id>
+    <published>2020-11-15T02:39:06.000Z</published>
+    <updated>2020-11-26T06:47:03.485Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;2020 年 11 月 13 日由 Square 举办的一场比赛，因为与上海大学生赛冲突了并没有打。看推说有 NoSQL</summary>
+        
+      
+    
+    
+    
+    <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="CTF" scheme="https://landvsec.top/tags/CTF/"/>
+    
+  </entry>
   
   <entry>
     <title>MongoDB 注入初识</title>
