@@ -28,7 +28,7 @@
 <p>第三改 Servers ，Name 自定义。</p>
 <p><img src="https://i.loli.net/2020/11/29/VE39xHnFcdrwq5g.png" style="zoom:80%;" /></p>
 <p>然后就是 IDE 右上角的 Configuration ，这里我是已经配置好了，本来是默认不亮的。</p>
-<p><img src="C:\Users\landv\AppData\Roaming\Typora\typora-user-images\image-20201129205918486.png" alt="image-20201129205918486" style="zoom:80%;" /></p>
+<p><img src="https://i.loli.net/2020/12/05/jP7svqBI1ZJcmaU.png" alt=""></p>
 <p>其中框框点 Edit Configurations ，配置如下：</p>
 <p><img src="https://i.loli.net/2020/11/29/CQohAsbYMSpy7WX.png" style="zoom:80%;" /></p>
 <p>首先点 + ，添加 PHP Web Page 修改右边的信息，Server Name 替换你上面自定义的名称，Start URL 看你 PHPStudy WWW 目录下想要调试的项目位置。</p>
@@ -171,7 +171,7 @@
 <p>虽然 ban 了很多标签，但 img 还是漏了：</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">1</span> <span class="attr">onerror</span>=<span class="string">alert(1)</span>&gt;</span><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <p><img src="https://i.loli.net/2020/12/05/l3Ov4D7M2raiNFx.png" /></p>
-<p><img src="C:\Users\landv\AppData\Roaming\Typora\typora-user-images\image-20201205162012924.png" alt="image-20201205162012924" style="zoom:80%;" /></p>
+<p><img src="https://i.loli.net/2020/12/05/YKuvRLck1xi9Nps.png" style="zoom:80%;" /></p>
 <h5 id="修复建议-4"><a href="#修复建议-4" class="headerlink" title="修复建议"></a>修复建议</h5><p>限制邮箱长度，过滤邮箱输入里的非法字符，传输过程加密，不输出报错内容。</p>
 <h2 id="文件包含漏洞-文件上传漏洞-getshell"><a href="#文件包含漏洞-文件上传漏洞-getshell" class="headerlink" title="文件包含漏洞 + 文件上传漏洞 getshell"></a>文件包含漏洞 + 文件上传漏洞 getshell</h2><p>uploads/user.php</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">elseif</span> ($act == <span class="string">&#x27;pay&#x27;</span>)&#123;</span><br><span class="line">	<span class="keyword">include</span> <span class="string">&#x27;data/pay.cache.php&#x27;</span>;</span><br><span class="line">	$price = $_POST[<span class="string">&#x27;price&#x27;</span>];</span><br><span class="line">	$id = $_POST[<span class="string">&#x27;id&#x27;</span>];</span><br><span class="line">	$name = $_POST[<span class="string">&#x27;name&#x27;</span>];</span><br><span class="line">	<span class="keyword">if</span> (<span class="keyword">empty</span>($_POST[<span class="string">&#x27;pay&#x27;</span>])) &#123;</span><br><span class="line">		showmsg(<span class="string">&#x27;对不起，您没有选择支付方式&#x27;</span>);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">include</span> <span class="string">&#x27;include/payment/&#x27;</span>.$_POST[<span class="string">&#x27;pay&#x27;</span>].<span class="string">&quot;/index.php&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
@@ -317,7 +317,7 @@
 <blockquote>
 <p><a href="https://www.sqlite.org/lang_keywords.html">SQLite Keywords</a></p>
 <p>SQLite 中使用关键字作为名称，有四种引用方法：</p>
-<p><img src="https://i.loli.net/2020/11/11/mkFVCRUD2AMtjzI.png" style="zoom:80%;" /></p>
+<p><img src="https://i.loli.net/2020/12/05/v3AQ1RazYnXFD2w.png" style="zoom:80%;" /></p>
 <p>括在方括号中的关键字是标识符。这不是标准的 SQL。MS access 和 SQL server 使用这种引用机制，SQLite 中包含这种引用机制是为了兼容。</p>
 <p><img src="https://i.loli.net/2020/11/11/3yjqAYaFnIzOeNd.png" alt=""></p>
 <p>既然正则中所有引号都有匹配，我们可以使用 <code>[]</code> 括关键字进行绕过，并可用它来<strong>注释</strong>，代替 <code>--</code> 。</p>
