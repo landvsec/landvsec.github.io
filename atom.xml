@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-12-05T13:26:57.830Z</updated>
+  <updated>2020-12-08T13:46:39.707Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每周审计之ZZCMS v8.2 复现</title>
+    <link href="https://landvsec.top/archives/c46ecd7.html"/>
+    <id>https://landvsec.top/archives/c46ecd7.html</id>
+    <published>2020-12-06T05:35:06.000Z</published>
+    <updated>2020-12-08T13:46:39.707Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;PHP 代码审计第二周，还是入门级的古早 CMS ，从这个开始加入通读全文代码，因为 BlueCMS 那一周跟着别人的博客复现实在不符合 boku 的节奏。&lt;/p&gt;
+&lt;p&gt;本篇采用黑盒 + 白盒的审计方式，黑盒会根据功能点定向审计，白盒还是采用 Seay 自动化的方式，同样，本篇审计时不会给出相应代码行号，意在希望读者能自行通读，不要只关注于博客的内容。&lt;/p&gt;
+&lt;p&gt;其次工具利用也不会太作详细，重点关注代码。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="PHP审计" scheme="https://landvsec.top/tags/PHP%E5%AE%A1%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>PHPStorm+PHPStudy+Xdebug 配置2020详细教程</title>
