@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-12-08T13:54:38.868Z</updated>
+  <updated>2020-12-11T11:59:05.739Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -17,11 +17,56 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>退圈声明</title>
+    <link href="https://landvsec.top/archives/fef121cd.html"/>
+    <id>https://landvsec.top/archives/fef121cd.html</id>
+    <published>2020-12-11T11:36:48.000Z</published>
+    <updated>2020-12-11T11:59:05.739Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;​    大学两年就这么过去了，因为疫情在家浑浑噩噩度过大二下学期，一开学就是大三，面临考研和就业的问题，真的想了非常多。即使偶尔一次拿了专业第一，也对自己没有多少信心（各方面）。&lt;/p&gt;
+&lt;p&gt;​   </summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://landvsec.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="随笔" scheme="https://landvsec.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周审计之74CMS 各版本复现</title>
+    <link href="https://landvsec.top/archives/61d01802.html"/>
+    <id>https://landvsec.top/archives/61d01802.html</id>
+    <published>2020-12-10T05:22:13.000Z</published>
+    <updated>2020-12-10T13:33:27.027Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;PHP 审计第三 / 四 周，接近期末课设和考试了，时间比较紧迫，所以索性把 74CMS 的各版本审计复现汇总到这个博文，主要因为 74CMS 是 ThinkPHP 框架，前两周审计的 CMS 都是没有框架的，比较简单，就想借期末最后一个月把 TP 框架漏洞简单粗略地过一遍，寒假会深入开发学习。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="安全" scheme="https://landvsec.top/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="PHP审计" scheme="https://landvsec.top/tags/PHP%E5%AE%A1%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>每周审计之ZZCMS v8.2 复现</title>
     <link href="https://landvsec.top/archives/c46ecd7.html"/>
     <id>https://landvsec.top/archives/c46ecd7.html</id>
     <published>2020-12-06T05:35:06.000Z</published>
-    <updated>2020-12-08T13:54:38.868Z</updated>
+    <updated>2020-12-10T06:41:14.759Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;PHP 代码审计第二周，还是入门级的古早 CMS ，从这个开始加入通读全文代码，因为 BlueCMS 那一周跟着别人的博客复现实在不符合 boku 的节奏。&lt;/p&gt;
