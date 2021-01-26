@@ -6,7 +6,7 @@
   <link href="https://landvsec.top/atom.xml" rel="self"/>
   
   <link href="https://landvsec.top/"/>
-  <updated>2020-12-11T11:59:43.988Z</updated>
+  <updated>2020-12-10T06:41:14.759Z</updated>
   <id>https://landvsec.top/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>退圈声明</title>
-    <link href="https://landvsec.top/archives/fef121cd.html"/>
-    <id>https://landvsec.top/archives/fef121cd.html</id>
-    <published>2020-12-11T11:36:48.000Z</published>
-    <updated>2020-12-11T11:59:43.988Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;​    大学两年就这么过去了，因为疫情在家浑浑噩噩度过大二下学期，一开学就是大三，面临考研和就业的问题，真的想了非常多。即使偶尔一次拿了专业第一，也对自己没有多少信心（各方面）。&lt;/p&gt;
-&lt;p&gt;​   </summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="https://landvsec.top/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="随笔" scheme="https://landvsec.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
   
   <entry>
     <title>每周审计之ZZCMS v8.2 复现</title>
@@ -94,7 +68,7 @@
     <link href="https://landvsec.top/archives/ebbdc35f.html"/>
     <id>https://landvsec.top/archives/ebbdc35f.html</id>
     <published>2020-11-29T01:37:05.000Z</published>
-    <updated>2020-12-05T13:32:49.555Z</updated>
+    <updated>2021-01-26T07:56:37.438Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近在根据 p 牛的 PHP 审计脑图学习审计，就打算找一些古早 CMS 来练习，因为课业繁忙，所以打算出《每周审计》这样一个栏目，每周审计一个 CMS ，既是督促自己学习，也是让自己能够有所沉淀。&lt;/p&gt;
